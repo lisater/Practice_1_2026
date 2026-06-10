@@ -1,0 +1,409 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Страница — 1" id="ZRyvZhZbcwNU37wxqHY7">
+    <mxGraphModel dx="1752" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-4" target="1-IGpGEhFomkrU7Tehjl-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-27" value="Первый&lt;div&gt;этап&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1-IGpGEhFomkrU7Tehjl-10">
+          <mxGeometry x="-0.1724" relative="1" as="geometry">
+            <mxPoint x="-11" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-11" value="Второй этап" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-4" target="1-IGpGEhFomkrU7Tehjl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-4" target="1-IGpGEhFomkrU7Tehjl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-26" value="Пятый этап" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1-IGpGEhFomkrU7Tehjl-12">
+          <mxGeometry x="-0.1181" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-4" target="1-IGpGEhFomkrU7Tehjl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-25" value="&lt;font&gt;Четвертый&lt;/font&gt;&lt;div&gt;&lt;font&gt;этап&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1-IGpGEhFomkrU7Tehjl-13">
+          <mxGeometry x="-0.1331" y="2" relative="1" as="geometry">
+            <mxPoint x="12" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-4" target="1-IGpGEhFomkrU7Tehjl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-23" value="Третий этап" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1-IGpGEhFomkrU7Tehjl-16">
+          <mxGeometry x="-0.1314" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Развитие&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;информатики&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelPosition=center;align=center;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;strokeColor=#66B2FF;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-5" target="1-IGpGEhFomkrU7Tehjl-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-5" target="1-IGpGEhFomkrU7Tehjl-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-5" target="1-IGpGEhFomkrU7Tehjl-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-5" target="1-IGpGEhFomkrU7Tehjl-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-5" value="Докомпьютерный этап&lt;div&gt;(до середины ХХ века)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-6" target="1-IGpGEhFomkrU7Tehjl-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-6" target="1-IGpGEhFomkrU7Tehjl-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-6" target="1-IGpGEhFomkrU7Tehjl-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-6" value="Зарождение ЭВМ&amp;nbsp;&lt;div&gt;(1940-е – 1960-е года)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-51" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-7" target="1-IGpGEhFomkrU7Tehjl-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-7" target="1-IGpGEhFomkrU7Tehjl-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-7" target="1-IGpGEhFomkrU7Tehjl-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-7" target="1-IGpGEhFomkrU7Tehjl-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-7" value="Персональные компьютеры&lt;div&gt;(1970-е – 1980-е года)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-8" target="1-IGpGEhFomkrU7Tehjl-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-8" target="1-IGpGEhFomkrU7Tehjl-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-8" target="1-IGpGEhFomkrU7Tehjl-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-8" target="1-IGpGEhFomkrU7Tehjl-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-8" value="Сетевой этап&amp;nbsp;&lt;div&gt;(1990-е – 2000-е года)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="530" y="240" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-66" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-9" target="1-IGpGEhFomkrU7Tehjl-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-9" target="1-IGpGEhFomkrU7Tehjl-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-9" target="1-IGpGEhFomkrU7Tehjl-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-9" target="1-IGpGEhFomkrU7Tehjl-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-9" value="Мобильный и интеллектуальный этап&lt;div&gt;(2010-е – настоящее время)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="249" y="140" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;strokeColor=#66B2FF;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-6" target="1-IGpGEhFomkrU7Tehjl-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="383" y="470" as="sourcePoint" />
+            <mxPoint x="460" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.703;exitY=0.217;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;strokeColor=#66B2FF;exitPerimeter=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-7" target="1-IGpGEhFomkrU7Tehjl-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="573" y="560" as="sourcePoint" />
+            <mxPoint x="650" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;dashed=1;dashPattern=8 8;strokeColor=#66B2FF;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-8" target="1-IGpGEhFomkrU7Tehjl-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="683" y="180" as="sourcePoint" />
+            <mxPoint x="760" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-83" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeWidth=2;endArrow=classicThin;endFill=0;strokeColor=#66B2FF;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-28" target="1-IGpGEhFomkrU7Tehjl-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-84" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-28" target="1-IGpGEhFomkrU7Tehjl-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-28" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Изобретение механических калькуляторов&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="10" y="170" width="104" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-85" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60.23529411764707" y="264.47058823529414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-86" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-31" target="1-IGpGEhFomkrU7Tehjl-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Разработка аналитической машины Бэббиджа и алгоритмов Лавлейс&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="250" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-87" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-33" target="1-IGpGEhFomkrU7Tehjl-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-88" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-33" target="1-IGpGEhFomkrU7Tehjl-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-33" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Внедрение перфокартных табуляторов Холлерита&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="24" y="340" width="76" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-96" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-37" target="1-IGpGEhFomkrU7Tehjl-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-97" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-37" target="1-IGpGEhFomkrU7Tehjl-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-37" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Создание первых военных ЭВМ на лампах&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(ENIAC, МЭСМ)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="46" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-99" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-41" target="1-IGpGEhFomkrU7Tehjl-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-41" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Переход на транзисторы и появление первых операционных систем&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="129" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-101" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-42" target="1-IGpGEhFomkrU7Tehjl-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-42" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Запуск мейнфреймов в крупных корпорациях и банках&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-112" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-47" target="1-IGpGEhFomkrU7Tehjl-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-47" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Выпуск доступных по цене домашних ПК&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(Apple II, IBM PC)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-114" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-49" target="1-IGpGEhFomkrU7Tehjl-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-49" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Появление графического интерфейса (GUI),&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;иконок и компьютерной мыши&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="505" y="555" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-115" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-50" target="1-IGpGEhFomkrU7Tehjl-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-116" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-50" target="1-IGpGEhFomkrU7Tehjl-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-50" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Создание первых текстовых процессоров и электронных таблиц (типа VisiCalc)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="480" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-117" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-54" target="1-IGpGEhFomkrU7Tehjl-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-118" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-54" target="1-IGpGEhFomkrU7Tehjl-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-54" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Разработка первых коммерческих видеоигр для ПК&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="730" y="420" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-128" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-56" target="1-IGpGEhFomkrU7Tehjl-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-129" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-56" target="1-IGpGEhFomkrU7Tehjl-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-56" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Зарождение первых интерактивных социальных сетей (Web 2.0)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="330" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-130" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-57" target="1-IGpGEhFomkrU7Tehjl-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-57" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Появление электронной почты, чатов и форумов&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="770" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-133" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-58" target="1-IGpGEhFomkrU7Tehjl-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-134" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-58" target="1-IGpGEhFomkrU7Tehjl-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-58" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Запуск Всемирной паутины (WWW) и протоколов&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;общего доступа&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-132" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-59" target="1-IGpGEhFomkrU7Tehjl-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-59" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Внедрение протоколов шифрования для онлайн-платежей и создание сайтов типа Amazon и eBay&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="770" y="220" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-144" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-62" target="1-IGpGEhFomkrU7Tehjl-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-145" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-62" target="1-IGpGEhFomkrU7Tehjl-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-146" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-62" target="1-IGpGEhFomkrU7Tehjl-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-62" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Повсеместное внедрение смартфонов, мобильного интернета 4G/5G&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;и GPS-навигации&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-151" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-63" target="1-IGpGEhFomkrU7Tehjl-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-63" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Удешевление создания реалистичных ИИ-дипфейков&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="530" y="90" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-149" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-64" target="1-IGpGEhFomkrU7Tehjl-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-150" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-64" target="1-IGpGEhFomkrU7Tehjl-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-64" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Взрывной прогресс генеративного искусственного интеллекта&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;и больших языковых моделей&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="430" y="20" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-147" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-65" target="1-IGpGEhFomkrU7Tehjl-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-148" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-65" target="1-IGpGEhFomkrU7Tehjl-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-65" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Развитие систем&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Больших Данных (Big Data)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;и алгоритмов таргетинга&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="260" y="20" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-77" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Снижение спроса на рутинных&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;счетчиков - начало автоматизации&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;умственного труда&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F1E5F5;strokeColor=#BE91D3;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="80" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-78" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Повышение доверия к точным наукам - минимизация человеческого фактора в инженерных и архитектурных расчетах.&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F1E5F5;strokeColor=#BE91D3;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="140" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-79" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Появление современной государственной бюрократии - жесткая привязка граждан к номерам и анкетам&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F1E5F5;strokeColor=#BE91D3;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="310" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-80" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Зарождение концепции программируемого будущего&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;- в обществе впервые возникла идея, что машина может обрабатывать не только числа, но и музыку, графику и тексты.&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F1E5F5;strokeColor=#BE91D3;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="220" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-81" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Зарождение крупных транснациональных ИТ-корпораций - коммерческий успех табуляторов привел к созданию компании IBM, которая на десятилетия определила вектор технологического развития мира.&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F1E5F5;strokeColor=#BE91D3;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="380" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-89" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Формирование страха перед&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;«электронным мозгом» -&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;массовое появление в фантастике&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;сюжетов о восстании машин&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9E7;strokeColor=#EECA60;" vertex="1" parent="1">
+          <mxGeometry x="225" y="600" width="205" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-91" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Новый виток гонки вооружений - появление ядерного оружия и баллистических ракет&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9E7;strokeColor=#EECA60;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="570" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-92" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Выделение программирования&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;в элитарную профессию&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9E7;strokeColor=#EECA60;" vertex="1" parent="1">
+          <mxGeometry x="104" y="700" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-93" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Развитие малого бизнеса и самозанятости&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EBEFFC;strokeColor=#86AFEB;" vertex="1" parent="1">
+          <mxGeometry x="344" y="690" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-94" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Технологическая монополия государства -&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;граждане отрезаны от технологий,&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;а управление компьютерами сосредоточилось&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;исключительно&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;в руках военно-промышленного комплекса&lt;/i&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9E7;strokeColor=#EECA60;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="480" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-95" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Стандартизация глобального образования -&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;&amp;nbsp;университеты по всему миру начали&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;массово открывать&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;кафедры кибернетики и компьютерных наук&lt;/i&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF9E7;strokeColor=#EECA60;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="650" width="296" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-100" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-41" target="1-IGpGEhFomkrU7Tehjl-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-102" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Преодоление языкового и технического барьера -&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;к работе с данными смогли приступить дети,&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;пожилые люди, и все, кто плохо&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;разбирается в технике&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EBEFFC;strokeColor=#86AFEB;" vertex="1" parent="1">
+          <mxGeometry x="400" y="745" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-103" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Зарождение инклюзивной&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;цифровой среды -&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;экранные дикторы, лупы и др.&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EBEFFC;strokeColor=#86AFEB;" vertex="1" parent="1">
+          <mxGeometry x="535" y="656.25" width="185" height="63.75" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-104" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Офисная революция и вытеснение профессий -&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;массовое сокращение машинисток, делопроизводителей&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;и бумажных счетоводов, замена их на операторов ПК.&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EBEFFC;strokeColor=#86AFEB;" vertex="1" parent="1">
+          <mxGeometry x="660" y="581.25" width="310" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-105" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Культ продуктивности - от наемных сотрудников&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;стали требовать выполнения задач в разы быстрее&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EBEFFC;strokeColor=#86AFEB;" vertex="1" parent="1">
+          <mxGeometry x="770" y="518.75" width="310" height="51.25" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-106" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Геймификация досуга и зарождение геймерской субкультуры&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EBEFFC;strokeColor=#86AFEB;" vertex="1" parent="1">
+          <mxGeometry x="890" y="460" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-107" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Рождение новой индустрии развлечений&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EBEFFC;strokeColor=#86AFEB;" vertex="1" parent="1">
+          <mxGeometry x="900" y="420" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-113" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.312;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-49" target="1-IGpGEhFomkrU7Tehjl-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-119" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Кризис концентрации внимания&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;и появление «синдрома упущенной выгоды»&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EAFFE9;strokeColor=#A0DA7D;" vertex="1" parent="1">
+          <mxGeometry x="900" y="370" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-120" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Появление феномена «культуры отмены»&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;и кибербуллинга&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EAFFE9;strokeColor=#A0DA7D;" vertex="1" parent="1">
+          <mxGeometry x="930" y="320" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-121" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Трансформация языковых норм -&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;появление интернет-сленга,&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;сокращений и смайликов&lt;/i&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EAFFE9;strokeColor=#A0DA7D;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="230" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-124" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Разрушение монополии традиционных СМИ -&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;каждый человек получил возможность мгновенно публиковать информацию на весь мир, что привело к расцвету блогосферы и гражданской журналистики.&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EAFFE9;strokeColor=#A0DA7D;" vertex="1" parent="1">
+          <mxGeometry x="827" y="40" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-125" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Стирание географических границ и феномен&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;&quot;глобальной деревни&quot; - люди начали объединяться&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;в сообщества не по месту жительства, а по интересам,&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;что снизило уровень локальной изоляции.&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EAFFE9;strokeColor=#A0DA7D;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="135" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-126" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Свободный доступ к мировому&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;культурному наследию&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EAFFE9;strokeColor=#A0DA7D;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-10" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-127" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Трансформация торговли&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;и изменение городской среды&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EAFFE9;strokeColor=#A0DA7D;" vertex="1" parent="1">
+          <mxGeometry x="827" y="145" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-131" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.207;entryY=0.944;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;strokeColor=#66B2FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="1-IGpGEhFomkrU7Tehjl-57" target="1-IGpGEhFomkrU7Tehjl-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-136" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Поляризация общества и радикализм -&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;алгоритмы подсовывают пользователю&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;только тот контент, который подтверждает его правоту, что делает невозможным конструктивный диалог между людьми с разными взглядами&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFEFE3;strokeColor=#EEAA00;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-155" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-137" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Смерть концепции личной приватности&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFEFE3;strokeColor=#EEAA00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-45" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-138" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Появление гиг-экономики и &quot;уберизации&quot; -&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;разрушение традиционного формата работы&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;«с 9 до 18», переход миллионов людей&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;на фриланс через платформы&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFEFE3;strokeColor=#EEAA00;" vertex="1" parent="1">
+          <mxGeometry x="-309" y="-10" width="249" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-139" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Кризис системы образования -&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;традиционные домашние задания&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(рефераты, решение задач)&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;потеряли смысл, так как ИИ выполняет их за ученика,&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;что требует полной перестройки формата экзаменов.&lt;/i&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFEFE3;strokeColor=#EEAA00;" vertex="1" parent="1">
+          <mxGeometry x="405" y="-145" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-140" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Кризис доверия&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;к информации&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFEFE3;strokeColor=#EEAA00;" vertex="1" parent="1">
+          <mxGeometry x="630" y="25" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-141" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Атрофия навыков пространственного ориентирования&amp;nbsp; -&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;из-за&amp;nbsp; зависимости от GPS-карт люди стали хуже ориентироваться&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;на местности по физическим знакам и бумажным картам&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFEFE3;strokeColor=#EEAA00;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-90" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-142" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Размытие границ между работой&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;и личной жизнью&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFEFE3;strokeColor=#EEAA00;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="5" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-143" value="&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Интеллектуальная безработица&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;и удешевление квалифицированного труда&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFEFE3;strokeColor=#EEAA00;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-50" width="235" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1-IGpGEhFomkrU7Tehjl-152" value="Интеллект карта на тему&lt;div&gt;&quot;Важные этапы в истории развития информатики&lt;/div&gt;&lt;div&gt;и их социальные последствия&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Подготовила студентка 1 курса ПОО&lt;/div&gt;&lt;div&gt;Терехина Елизавета&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-375" y="-255" width="335" height="105" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
